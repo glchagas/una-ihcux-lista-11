@@ -72,13 +72,13 @@ O principal benefício para o usuário é **facilitar o reaproveitamento de iten
 ---
 
 ## 📁 Estrutura do Repositório
-una-ihcux-lista-11/
-│
-├── prototipo/
-│ ├── prototipo.png
-│ ├── prototipo.pdf
-│
-└── README.md
+una-ihcux-lista-11/  
+│  
+├── prototipo/  
+│ ├── prototipo.png  
+│ ├── prototipo.pdf  
+│  
+└── README.md  
 
 ---
 
