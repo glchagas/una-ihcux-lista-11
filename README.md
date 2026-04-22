@@ -75,8 +75,8 @@ O principal benefício para o usuário é **facilitar o reaproveitamento de iten
 una-ihcux-lista-11/  
 │  
 ├── prototipo/  
-│ ├── prototipo.png  
-│ ├── prototipo.pdf  
+  ├── prototipo.png  
+  └── prototipo.pdf  
 │  
 └── README.md  
 
